@@ -15,8 +15,8 @@ Trade **CORE tokens** using inline buttons for quick actions to buy and sell spe
 ### 3. Token Sniper
 Snipe tokens on the CORE chain in real time. Get ahead of the competition and catch new token launches early.
 
-### 4. Sniper Pumpfun
-Engage in **Pumpfun token** sniping, taking advantage of price surges to maximize your profit.
+### 4. Sniper CPUMP
+Engage in **Cpump token** sniping, taking advantage of price surges to maximize your profit.
 
 ### 5. Limit Orders
 Set **limit orders** with ease, allowing you to buy or sell tokens at your desired price automatically.
